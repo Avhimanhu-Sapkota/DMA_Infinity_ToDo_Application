@@ -19,7 +19,7 @@ Home Page
 The successful login into the application will transfer you to the home page of the application. This page will list all the tasks you have added in the application. In order to give a simple introduction overview, a default task will be displayed. This task will remain in the screen unless you delete it yourself. The home page of the application is the primary page which contains all the other features of the application. Some features, along with their tutorials, that you will be able to access from the page are:
 
 Add a To-Do Task
-	1. Press on the purple button on the bottom of the right-hand side of the page.
+		Press on the purple button on the bottom of the right-hand side of the page.
 	2. A new page will open where you will be asked to enter details of the task.
 	3. Firstly, you are supposed to add the title of your task.
 	4. Add a description of the task (This is an optional feature; you are free to not add a description).
