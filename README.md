@@ -62,6 +62,7 @@ The successful login into the application will transfer you to the home page of 
 	<li>You will be displayed with options, choose Logout to log out of the application.</li>
 	<li>You will be re-directed to the login page of the application.</li>
 </ul>
+
 ![](./InfinityToDoDemonstration.gif)
  
 <h3>Final Notes</h3>
