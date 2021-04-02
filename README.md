@@ -1,11 +1,11 @@
-# MobileApplicationDevelopment
+<h1>Infinity To-Do Application - Readme File</h1>
 
-Infinity ToDo Application
-A simple To Do List Application designed to maximize productivity for bigger problems. It’s a minimal to do list, checklist and task manager application which will perhaps help you to get your tasks done. The primary goal of the application is to add value to your life by helping you organize your upcoming tasks. Hope you will enjoy using the application. Regards, Infinity To-Do!
-Developer’s Info: The application has been designed and developed by Avhimanhu Sapkota (Leeds Beckett ID: 77202323). This application is an assessment of a module Developing Mobile Application (DMA). It is a curriculum of Level 6 of Bachelor in Computing honors affiliated to Leeds Beckett University.
-The application’s source code and all the necessary raw documents can be found on the following git link:https://github.com/Avhimanhu-Sapkota/DMA_Infinity_ToDo_Application
-
-User Guidelines
+<h2>Infinity ToDo Application</h2>
+<p>A simple To Do List Application designed to maximize productivity for bigger problems. It’s a minimal to do list, checklist and task manager application which will perhaps help you to get your tasks done. The primary goal of the application is to add value to your life by helping you organize your upcoming tasks. Hope you will enjoy using the application. Regards, Infinity To-Do! </p>
+<p>Developer’s Info: The application has been designed and developed by Avhimanhu Sapkota (Leeds Beckett ID: 77202323). This application is an assessment of a module Developing Mobile Application (DMA). It is a curriculum of Level 6 of Bachelor in Computing honors affiliated to Leeds Beckett University. <br>
+The application’s source code and all the necessary raw documents can be found on the following git link: https://github.com/Avhimanhu-Sapkota/DMA_Infinity_ToDo_Application
+</p>
+<h2>User Guidelines</h2>
 As mentioned earlier, Infinity ToDo is a minimal yet productive application to handle tasks in an organized manner. Thus, we believe in ‘Less is More’ philosophy of Minimalism. Therefore, the application has minimal features which will help you to get things done. Some features of the application have been mentioned below.
 
 Login Information
